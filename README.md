@@ -16,3 +16,25 @@
 * Pinecone
 * Serp API
 * Wikipedia
+
+#### Features:
+* Complete LangChain Guide: Covers all key concepts, including chains, agents, and document loaders.
+* Python Code Examples: Practical and easy-to-follow code snippets for each topic.
+* Chroma DB & Pinecone: Learn how to integrate Chroma DB and Pinecone with OpenAI embeddings for powerful data management.
+* Structured Learning Path: Start from the basics and progress to advanced topics.
+
+
+#### Topics Covered:
+* Introduction to LangChain and its components
+* Building and using chains in LangChain
+* Implementing agents for dynamic workflows
+* Document loaders with Chroma DB and Pinecone
+* Working with OpenAI embeddings for enhanced capabilities
+
+
+#### How to Use:
+* Clone the Repository: git clone https://github.com/BuildWithLal/langchain-bascis-using-pinecone-chromadb-openai.git
+* Explore the Topics: Each folder contains code examples and a README for easy navigation.
+* Practice and Learn: Follow the code and examples to deepen your understanding of LangChain.
+
+  
